@@ -1,3 +1,5 @@
+안녕하세요.. 반가워요~ 굿럭~!!
+
 # Azure DevOps HOL
 
 [DevOps Korea Meetup](http://meetup.devopskorea.com/201906/) 행사에서 진행하는 Hands on Lab입니다.
